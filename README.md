@@ -23,14 +23,7 @@ The Codex Proxy Server is a secure, modular, and ergonomic proxy server built in
 
 ### 1. Download/Clone the Repository
 ```sh
-git clone https://github.com/yourusername/opencode-codex-proxy.git
-cd "Codex Proxy Server"
-```
-
-## Important
-Before building or running the server, make sure you are in the project directory:
-
-```sh
+git clone https://github.com/unluckyjori/Codex-Proxy-Server.git
 cd "Code"
 ```
 
